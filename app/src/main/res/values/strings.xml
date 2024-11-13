@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GoogleBooksApp</string>
+    <string name="recommended_books_title">Daftar Buku Recommended</string>
+</resources>
